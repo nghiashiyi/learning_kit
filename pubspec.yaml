@@ -1,6 +1,6 @@
 name: learning_kit
 description: "A useful lib for learning"
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/nghiashiyi/learning_kit.git
 
 environment:
